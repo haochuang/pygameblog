@@ -15,3 +15,5 @@ then in a separate terminal start the client with
 foreign clients can join by specifying your ipaddress eg:
 
 `py game.py 192.10.1.50`
+
+介绍查看：https://python.freelycode.com/contribution/detail/446
